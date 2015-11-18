@@ -1,0 +1,9 @@
+.buildlog
+.pub/
+build/
+packages
+*.dart.js
+*.js_
+*.js.deps
+*.js.map
+pubspec.lock
